@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Behavioral Fingerprinting: Monitoring LLM Agent Stability Across Model Upgrades
+authors:
+  - family-names: Kutty
+    given-names: Sathiyan
+date-released: 2026
+license: CC-BY-4.0
+message: "If you use this work, please cite it as below."
