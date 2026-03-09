@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18919096.svg)](https://doi.org/10.5281/zenodo.18919096)
+
 # Behavioral Fingerprinting: Monitoring LLM Agent Stability Across Model Upgrades
 
 **Author:** Sathiyan Kutty  
